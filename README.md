@@ -1,1 +1,1 @@
-[![Paweł Koperwas profile views](https://u8views.com/api/v1/github/profiles/68131448/views/day-week-month-total-count.svg)](https://u8views.com/github/pkoperwas)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fpkoperwas&label=&icon=bar-chart-fill&color=%236edff6&message=&style=flat&tz=UTC)
